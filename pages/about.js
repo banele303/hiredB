@@ -31,9 +31,9 @@ const about = () => {
             become more difficult. and convert them into a client
           </p1>
           <p1 className="font-Poppins text-l md:text-l text-white py-10 md:py-[.2rem] opacity-70 ">
-            But it's much simpler if they TRUST you, if you HELP them, and if
+            But it`&apos;`s much simpler if they TRUST you, if you HELP them, and if
             you STAND OUT from the crowd. The simplest way to do so is to put up
-            a website that handles all of your company's "selling" so you can
+            a website that handles all of your company`&apos;`s `&quot;`selling`&quot;` so you can
             concentrate on serving customers.
           </p1>
         </div>
@@ -93,7 +93,7 @@ const about = () => {
             <h1 className="leading-6 font-Poppins md:text-1xl font-semibold opacity-70 pt-[1rem] ">
               The heart of your digital and online presence is your website.
               Keeping it active and generating income for you is crucial. By
-              providing exceptional customer service and "making digital simple"
+              providing exceptional customer service and `&quot;`making digital simple`&quot;`
               for our clients, we encourage them to return to us for support and
               assistance with their next major project or idea.
             </h1>
@@ -108,7 +108,7 @@ const about = () => {
               presence. Keeping it alive and working for you is therefore
               essential. Our web design team focuses on developing a
               cutting-edge website experience that is easier to administer than
-              anything you've ever used, elegantly designed, and innovatively
+              anything you`&apos;` ve ever used, elegantly designed, and innovatively
               developed.
             </h1>
           </div>

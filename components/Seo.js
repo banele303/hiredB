@@ -38,7 +38,7 @@ const Seo = () => {
         competitors. */}
       </p>
       <p className="text-black font-Poppins text-center text-[19px] py-[1rem] px-2rem md:px-[8rem] font-semibold opacity-70">
-        We exclusively use tried-and-true methods, so it's no surprise that we
+        We exclusively use tried-and-true methods, so it`&apos;`s no surprise that we
         consistently produce results.
       </p>
       <h1 className="text-center font-Poppins mb-[2rem] px-5 text-2xl md:text-5xl pt-[8rem] text-blue-800 font-bold">
@@ -57,7 +57,7 @@ const Seo = () => {
                 We begin the campaign by conducting a thorough website audit.
                 These audits are essential for us to understand how the present
                 site is constructed as well as any technological issues that are
-                impeding your site's performance. To avoid building a house on
+                impeding your site`&apos;`s performance. To avoid building a house on
                 sand, a strong foundation must be established from the
                 beginning.
               </p>
@@ -105,7 +105,7 @@ const Seo = () => {
                 On-Page SEO
               </h1>
               <p className="text-white font-Poppins text-center text-[18px] py-[1rem] px-[1rem] md:px-[1rem]  opacity-70">
-                To improve a website's exposure, onpage SEO is the process of
+                To improve a website`&apos;`s exposure, onpage SEO is the process of
                 modifying and optimizing the website itself. This entails making
                 modifications TO your real website, as the name suggests. If you
                 do this wrong, Google will put your website back on Page 10.
@@ -135,7 +135,7 @@ const Seo = () => {
               <p className="text-white font-Poppins text-center text-[18px] py-[1rem] px-[1rem] md:px-[1rem]  opacity-70">
                 Because we place a high value on openness, HIREDB sends monthly
                 reports right to your inbox. These reports give you an overview
-                of the campaign's development as well as your keyword rankings!
+                of the campaign`&apos;`s development as well as your keyword rankings!
               </p>
             </div>
           </div>
@@ -269,7 +269,7 @@ const Seo = () => {
 
       <div className="book-call py-[3rem] px-10">
         <h1 className="font-Poppins text-center text-2xl md:text-5xl pt-[4rem] text-white font-bold">
-          You're one call away from a whole new business..
+          You`&apos;`re one call away from a whole new business..
         </h1>
         <p className="text-white font-Poppins text-center text-[19px] py-[1rem] px-2rem md:px-[8rem] font-semibold opacity-70">
           Ready to dominate Google and take your business to the next level?

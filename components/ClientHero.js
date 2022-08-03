@@ -20,7 +20,7 @@ const ClientHero = () => {
             For us, success is being respected, being trusted, being liked and
             creating solutions that <br />
             we are proud of. <br />
-            But don't take our word for it, read what our clients say below...
+            But don`&apos;`t take our word for it, read what our clients say below...
           </h1>
         </div>
       </div>
@@ -38,7 +38,7 @@ const ClientHero = () => {
               </h1>
               <FaQuoteRight className="text-[2rem] text-blue-400 " />
               <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
-                "For a very reasonable price, Banele and his coworkers created a
+              `&quot;`For a very reasonable price, Banele and his coworkers created a
                 clean and expert website to help our business. They were
                 attentive to our needs, quick to respond, and finished on
                 schedule. We are quite happy with the outcome, and we have
@@ -47,7 +47,7 @@ const ClientHero = () => {
                 Additionally, Made Simple Media greatly simplified things for
                 us. they helped us out a lot by allowing us to change pages as
                 needed and supplying our own instructions on how to achieve
-                this. Highly suggested." Bakhulile, Glenanda North
+                this. Highly suggested.`&quot;` Bakhulile, Glenanda North
               </h1>
               <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
                 Mpha Projects
@@ -64,7 +64,7 @@ const ClientHero = () => {
               </h1>
               <FaQuoteRight className="text-[2rem] text-blue-400 " />
               <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
-                "When we wanted to make changes to and add pages to our website,
+              `&quot;`When we wanted to make changes to and add pages to our website,
                 we began working with Banele at
                 <span
                   className={clsx(
@@ -77,7 +77,7 @@ const ClientHero = () => {
                 Media. He has always been a pleasure to work with, is
                 dependable, and provides prompt responses. He has also given us
                 good advice on what we might want to add. Working with David and
-                MSM is something I would strongly advise."
+                MSM is something I would strongly advise.`&quot;`
               </h1>
               <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
                 Mthokozisi khumalo
@@ -95,7 +95,7 @@ const ClientHero = () => {
               </h1>
               <FaQuoteRight className="text-[2rem] text-blue-400 " />
               <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
-                "For a very reasonable price, Banele and his coworkers created a
+              `&quot;`For a very reasonable price, Banele and his coworkers created a
                 clean and expert website to help our business. They were
                 attentive to our needs, quick to respond, and finished on
                 schedule. We are quite happy with the outcome, and we have
@@ -104,7 +104,7 @@ const ClientHero = () => {
                 Additionally, Made Simple Media greatly simplified things for
                 us. they helped us out a lot by allowing us to change pages as
                 needed and supplying our own instructions on how to achieve
-                this. Highly suggested." Bakhulile, Glenanda North
+                this. Highly suggested.`&quot;` Bakhulile, Glenanda North
               </h1>
               <h1 className="text-black leading-8 font-Poppins pt-[2rem] pb-[4rem] text-[15px] md:text-[17px]   opacity-90">
                 Ezekhiyeli

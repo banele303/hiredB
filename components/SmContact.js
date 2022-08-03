@@ -28,7 +28,7 @@ const SmContact = () => {
             Email US
           </h1>
           <p className="text-black font-Poppins text-[14px] pb-[2rem]  md:text-[14px] pt-[1.7rem] px-[2rem] opacity-70">
-            Got a question about Web design? Send us a message and we'll be
+            Got a question about Web design? Send us a message and we`&apos;`ll be
             happy to help...
           </p>
           <form ref={form} onSubmit={sendEmail}>

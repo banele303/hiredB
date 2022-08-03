@@ -7,8 +7,10 @@ import Head from "next/head";
 import Link from "next/link";
 import React, { useRef } from "react";
 import emailjs from "emailjs-com";
+import React,{useRef} from "react"
 
 const services = () => {
+
   const form = useRef();
   function sendEmail(e) {
     e.preventDefault();
@@ -80,7 +82,7 @@ const services = () => {
               <br />
               Delivering excellent customer service, we{" "}
               <span className="text-blue-400 font-semibold">
-                "make digital simple"
+              `&quot;`make digital simple`&quot;`
               </span>
               for our clients, so they come back to us for support and help with
               their next big idea or project.tvf b
@@ -176,7 +178,7 @@ const services = () => {
                   Email US
                 </h1>
                 <p className="text-black font-Poppins text-[14px] pb-[2rem]  md:text-[14px] pt-[1.7rem] px-[2rem] opacity-70">
-                  Got a question about Web design? Send us a message and we'll
+                  Got a question about Web design? Send us a message and we`&apos;`ll
                   be happy to help...
                 </p>
                 <div className="px-[3rem] py-[.4rem]">

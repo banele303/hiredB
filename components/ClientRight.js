@@ -17,7 +17,7 @@ const ClientRight = () => {
           </h1>
           <FaQuoteRight className="text-[2rem] text-blue-400 " />
           <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
-            "When we wanted to make changes to and add pages to our website, we
+          `&quot;`When we wanted to make changes to and add pages to our website, we
             began working with Banele at{" "}
             <span
               className={clsx(
@@ -30,7 +30,7 @@ const ClientRight = () => {
             Media. He has always been a pleasure to work with, is dependable,
             and provides prompt responses. He has also given us good advice on
             what we might want to add. Working with David and MSM is something I
-            would strongly advise."
+            would strongly advise.`&quot;`
           </h1>
           <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
             Mthokozisi khumalo
@@ -55,7 +55,7 @@ const ClientRight = () => {
               service in understanding our needs and outlining each stage in the
               design process for our new website. We now have a professional
               website that is appealing and simple to operate, and they are
-              constantly available to provide help and guidance. Thank you!"
+              constantly available to provide help and guidance. Thank you!`&quot;`
             </h1>
             <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
               Bathabile
@@ -81,7 +81,7 @@ const ClientRight = () => {
               service in understanding our needs and outlining each stage in the
               design process for our new website. We now have a professional
               website that is appealing and simple to operate, and they are
-              constantly available to provide help and guidance. Thank you!"
+              constantly available to provide help and guidance. Thank you!`&quot;`
             </h1>
             <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
               Bathabile
@@ -107,10 +107,10 @@ const ClientRight = () => {
               {" "}
               HIREDB
             </span>{" "}
-            "Banele possesses solid technical abilities as well as knowledge of
+            `&quot;`Banele possesses solid technical abilities as well as knowledge of
             expert design. Our Concrete 5 website is in fantastic shape and has
             subsequently been expanded by him. Banele comes highly recommended,
-            without a doubt."
+            without a doubt.`&quot;`
           </h1>
           <h1 className="text-black leading-8 font-Poppins pt-[2rem] text-[15px] md:text-[17px]   opacity-90">
             Mthokozisi khumalo
