@@ -7,7 +7,7 @@ import Head from "next/head";
 import Link from "next/link";
 import React, { useRef } from "react";
 import emailjs from "emailjs-com";
-import React,{useRef} from "react"
+
 
 const services = () => {
 
