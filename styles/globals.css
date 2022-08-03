@@ -1,16 +1,214 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+  background-image: linear-gradient(
+    to right top,
+    #040816,
+    #040816,
+    #040816,
+    #040816,
+    #040816,
+    #040917,
+    #040918,
+    #040a19,
+    #040b1b,
+    #040c1d,
+    #040d1f,
+    #040e21
+  );
+}
+.bg-contact {
+  background-image: linear-gradient(
+    to right top,
+    #040816,
+    #040816,
+    #040816,
+    #040816,
+    #040816,
+    #040917,
+    #040918,
+    #040a19,
+    #040b1b,
+    #040c1d,
+    #040d1f,
+    #040e21
+  );
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.owner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-self: center;
+  background-color: #212d3e;
+  margin: 3rem auto;
+  max-width: 700px;
+  padding: 3rem;
+  border-radius: 5px;
 }
 
-* {
-  box-sizing: border-box;
+.whatmakes {
+  background-image: linear-gradient(
+    to right top,
+    #5c2042,
+    #5a224d,
+    #552659,
+    #4c2c65,
+    #3e3271,
+    #2d3570,
+    #1a386d,
+    #003968,
+    #003555,
+    #002e3f,
+    #00252a,
+    #031c1a
+  );
+
+  padding: 4rem 3rem;
+}
+
+.marketing_services {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.seo-hero {
+  background-image: linear-gradient(
+    to right top,
+    #000109,
+    #0c0f20,
+    #0f1934,
+    #0f214a,
+    #0d2a60,
+    #0a2c69,
+    #072f73,
+    #05317c,
+    #052d7a,
+    #052977,
+    #062475,
+    #082072
+  );
+}
+
+.card-one {
+  background-image: linear-gradient(
+    to right top,
+    #101e90,
+    #0e1c86,
+    #0c1b7d,
+    #0a1973,
+    #09176a,
+    #091768,
+    #081765,
+    #081763,
+    #081967,
+    #081b6a,
+    #081e6e,
+    #082072
+  );
+}
+
+.card-two {
+  background-image: linear-gradient(
+    to right top,
+    #310453,
+    #360560,
+    #3b066e,
+    #3f077d,
+    #430a8c,
+    #3f108f,
+    #3b1593,
+    #361996,
+    #2a1d8e,
+    #1f1f85,
+    #13207c,
+    #082072
+  );
+}
+.card-three {
+  background-image: linear-gradient(
+    to right top,
+    #086983,
+    #00738a,
+    #007e90,
+    #008995,
+    #009398,
+    #019b9e,
+    #05a4a3,
+    #0daca8,
+    #0bb4b3,
+    #09bdbf,
+    #09c5ca,
+    #09ced6
+  );
+}
+
+/* methodology */
+
+.methodology {
+  background-image: linear-gradient(
+    to right top,
+    #03123b,
+    #00164f,
+    #001862,
+    #091976,
+    #1b1889,
+    #251795,
+    #3014a2,
+    #3b0fae,
+    #400eb8,
+    #450dc2,
+    #4a0bcc,
+    #5009d6
+  );
+}
+
+/* why-seo */
+
+.why-seo {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.book-call {
+  background-image: linear-gradient(
+    to right top,
+    #03123b,
+    #00164f,
+    #001862,
+    #091976,
+    #1b1889,
+    #251795,
+    #3014a2,
+    #3b0fae,
+    #400eb8,
+    #450dc2,
+    #4a0bcc,
+    #5009d6
+  );
+}
+
+.services {
+  background-image: linear-gradient(
+    to right top,
+    #040816,
+    #040816,
+    #040816,
+    #040816,
+    #040816,
+    #080d1b,
+    #0b1120,
+    #0d1425,
+    #0f1a31,
+    #11203e,
+    #13274b,
+    #152d59
+  );
+}
+.scrolled {
+  background-color: #0D183F;
+}
+
+.bg-footer{
+  background-color: #0D183F;
 }
