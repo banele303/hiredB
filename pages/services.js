@@ -9,7 +9,7 @@ import React, { useRef } from "react";
 import emailjs from "emailjs-com";
 
 
-const services = () => {
+const Services = () => {
 
   const form = useRef();
   function sendEmail(e) {
@@ -243,4 +243,4 @@ const services = () => {
   );
 };
 
-export default services;
+export default Services;
